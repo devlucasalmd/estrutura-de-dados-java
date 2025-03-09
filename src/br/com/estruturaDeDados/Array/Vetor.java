@@ -1,4 +1,4 @@
-package br.com.estruturaDeDados;
+package br.com.estruturaDeDados.Array;
 
 import java.util.Arrays;
 

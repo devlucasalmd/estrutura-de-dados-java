@@ -1,4 +1,4 @@
-package br.com.estruturaDeDados;
+package br.com.estruturaDeDados.Array;
 
 public class VetorTeste {
 
